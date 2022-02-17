@@ -1,0 +1,15 @@
+current directory: /home/kiwitech/ratapp/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.10.3/ext/bootsnap
+/home/kiwitech/.rvm/rubies/ruby-3.1.0/bin/ruby -I /home/kiwitech/.rvm/rubies/ruby-3.1.0/lib/ruby/site_ruby/3.1.0 -r ./siteconf20220216-42968-vro3xz.rb extconf.rb
+creating Makefile
+
+current directory: /home/kiwitech/ratapp/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.10.3/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /home/kiwitech/ratapp/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.10.3/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/kiwitech/ratapp/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.10.3/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20220216-42968-kgku8o/bootsnap
